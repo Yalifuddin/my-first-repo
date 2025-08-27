@@ -1,2 +1,5 @@
-# my-first-repo
-Tutorial 0 PBP Gasal 25/26
+Nama : Yafi Alifuddin
+
+NPM : 2406437155
+
+Kelas : PBP F
